@@ -14,6 +14,6 @@ Items
 # Download
 EN : https://github.com/jordann124/esx_bitcoinEN
 
-_Anyone who wants es_extended ask me there in "Issues" _
+_Anyone who wants es_extended ask me there in "Issues"_
 
 # 🍀 Good Luck  🍀
